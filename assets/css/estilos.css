@@ -1,0 +1,17 @@
+.whitelogo{
+    width: 86px;
+    height: 25px;
+}
+
+.blacklogo{
+    width: 86px;
+    height: 24px;
+}
+
+nav, section{
+    background-color: #28a745 !important;
+}
+
+strong{
+    color: #28a745 !important;
+}
